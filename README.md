@@ -1,6 +1,8 @@
 # Sharing
 ✅ Share photos and videos ☑️
 
+pkg install python 
+
 pip install pillow 
 
 pip install flask 
